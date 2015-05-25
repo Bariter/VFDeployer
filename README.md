@@ -10,7 +10,7 @@ The step-by-step directions are the following.
 - Create `~/.aws/credentials` and put down your credentials as the profile, "vagrant-s3auth".    
 For example,
 
-``
+```
 ...
 
 [vagrant-s3auth]
