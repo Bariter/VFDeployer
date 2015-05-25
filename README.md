@@ -5,7 +5,7 @@
 ## Configuration
 ### AWS Credentials
 This Vagrantfile uses [vagrant-s3auth](https://github.com/WhoopInc/vagrant-s3auth).
-The step by step directions are the following.
+The step-by-step directions are the following.
 
 - Create `~/.aws/credentials` and put down your credentials as the profile, "vagrant-s3auth".    
 For example,
