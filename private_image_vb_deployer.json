@@ -1,0 +1,13 @@
+{
+  "name": "bariter/deployer",
+  "description": "This box contains images for virtualbox.",
+  "versions": [{
+    "version": "0.1.0",
+    "providers": [{
+      "name": "virtualbox",
+      "url": "https://s3.amazonaws.com/bariter-virtualbox/vb-deployer.box",
+      "checksum_type": "sha1",
+      "checksum": "d6ccaa87b28649c83a474c1abd834c789fd27a23"
+    }]
+  }]
+}
