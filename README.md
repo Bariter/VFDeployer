@@ -1,3 +1,4 @@
+# VFDeployer
 ## Note
 - This Vagrantfile will install `vagrant-s3auth` plugin in order to use the box    
   stored on the private aws s3 storage if your system doesn't have the plugin installed.
